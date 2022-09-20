@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "http-msgs": "^1.0.9",
+    "https": "^1.0.0",
+    "querystring": "^0.2.1",
+    "url": "^0.11.0"
+  }
+}

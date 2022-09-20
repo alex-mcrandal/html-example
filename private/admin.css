@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-size: 5vw;
+    margin: 10vw 0vw
+}
+
+input {
+    margin: 0 auto;
+    font-size: 3vw;
+    display: block;
+}
+
+.centerSpan {
+    display: block;
+    width: 40%;
+}
+
+.center {
+    text-align: center;
+    display: block;
+}
+
+.inputBlock {
+    margin-bottom: 3vw;
+}
+
+.inputLabel {
+    font-size: 3vw;
+    text-align: center;
+    display: block;
+}
+
+#loginEvent {
+    background-color: #ccc;
+}
