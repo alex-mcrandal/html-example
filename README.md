@@ -1,11 +1,11 @@
-# Daryl's Dudes' Project
+# Web Development Project
 
-## Authors: Alex McRandal, David Holt, Eli Vale, and Isaac Weber
-## CPS 342 - Fall, 2022
+## Author: Alex McRandal
 
 ### Objective: 
-Create functional web server that could be hosted by multiple options. The functionality and
-design of the websites is designed to serve the needs of the AFS club on campus.
+Create functional web server that could be hosted by multiple options.
+
+Showcases: HTML, CSS, and JavaScript (JQuery, AJAX, Express, etc.)
 
 ### Useful URLs
 Home Page:      https://localhost:443
